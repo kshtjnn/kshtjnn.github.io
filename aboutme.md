@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+This is the personal blog of Kshitij as a medium for sharing all the random thoughts and work with the world.  He is a Computer Science student (B.Tech) from West Bengal University of Technology (MAKAUT Now).
 
-My name is Inigo Montoya. I have the following qualities:
+His primary interests are in Coding, Algorithms, Data Structures, and Architecture. He is also interested in Competitive Programming.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+He likes learning new data structures, new technologies, new tools, and algorithms, solving competitive programming problems.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+He will earn my Graduation degree in July 2019.
